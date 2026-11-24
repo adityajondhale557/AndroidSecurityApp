@@ -1,0 +1,17 @@
+buildscript {
+    ext {
+        compose_version = '1.6.0'
+    }
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.4.0'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.9.24"
+    }
+}
+
+tasks.register('prepare', Delete) {
+    delete rootProject.buildDir
+}

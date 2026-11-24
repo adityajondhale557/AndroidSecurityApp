@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mobile Security</string>
+    <string name="scan_now">Scan Now</string>
+    <string name="quick_scan">Quick Scan</string>
+    <string name="deep_scan">Deep Scan</string>
+    <string name="security_audit">Security Audit</string>
+    <string name="detected_threats">Detected Threats</string>
+    <string name="scan_in_progress">Scanning...</string>
+    <string name="scan_complete">Scan Complete</string>
+    <string name="threat_level_critical">CRITICAL</string>
+    <string name="threat_level_high">HIGH</string>
+    <string name="threat_level_medium">MEDIUM</string>
+    <string name="threat_level_low">LOW</string>
+    <string name="action_uninstall">Uninstall App</string>
+    <string name="action_restrict">Restrict Permissions</string>
+    <string name="permission_sms">SMS</string>
+    <string name="permission_contacts">Contacts</string>
+    <string name="permission_camera">Camera</string>
+    <string name="permission_location">Location</string>
+    <string name="permission_microphone">Microphone</string>
+</resources>
